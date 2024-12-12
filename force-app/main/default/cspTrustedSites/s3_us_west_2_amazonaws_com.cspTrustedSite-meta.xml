@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CspTrustedSite xmlns="http://soap.sforce.com/2006/04/metadata">
+    <context>LEX</context>
+    <description>Amazon S3 hosted sample app media</description>
+    <endpointUrl>https://s3-us-west-2.amazonaws.com</endpointUrl>
+    <isActive>true</isActive>
+</CspTrustedSite>
